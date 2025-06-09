@@ -1,6 +1,6 @@
-# Analysis-of-a-business-request-to-identify-the-best-market-segments-for-the-
+# Creation of my professionnal data analysis portfolio
 # I. Context
-As part of my training as a Data Analyst, I was presented with an opportunity to apply for a mission within an international team working for a leading aeronautics manufacturer. This mission, set to begin in two weeks and lasting four months, will involve optimizing the supply chain processes between the client and its European suppliers. It includes multiple business trips across Europe and close collaboration with logistics teams.
+As part of my training as a Data Analyst, I was presented with an opportunity to apply for a mission within an international team, working for a leading aeronautics manufacturer. This mission, set to begin in two weeks and lasting four months, will involve optimising the supply chain processes between the client and its European suppliers. It includes multiple business trips across Europe and close collaboration with logistics teams.
 
 The goal of this mission is to improve the efficiency of supply chain operations through data analysis and the development of interactive dashboards that will support decision-making for logistics managers.
 
