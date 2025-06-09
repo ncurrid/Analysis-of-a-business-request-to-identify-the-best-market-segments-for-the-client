@@ -8,7 +8,7 @@ The project lead tasked me with delivering a data-driven market study to help gu
 
 Rather than focusing on development cost modeling, the mission is to identify market trends, player preferences, and strategic opportunities that can shape the game’s concept and ecosystem. My recommendations should help define:
 
-- Which consumer segment(s) to target,
+- Which consumer segment(s) to target
 
 - What game genre or platform could perform best
 
@@ -24,7 +24,7 @@ Reviewed the three provided datasets:
 
 - Vente de console_2022.xlsx: Console sales by brand and year.
 
-Collected additional data from public sources to identify emerging market trends and gamer behaviors.
+Collected additional data from public sources (rawg.io, etc.) to identify emerging market trends and gamer behaviors.
 
 Built a Google Form to test hypotheses about consumer preferences, platform usage, and genre trends.
 
@@ -41,12 +41,12 @@ Analysed sales data to understand the relationship between genre, platform, and 
 Designed and distributed an online questionnaire with questions such as:
 
 - What genres do you play most often?
-
-- How many hours per week do you game?
-
 - What platform do you use most?
-
 - Do you prefer online multiplayer or solo campaigns?
+- Have you ever bought additionnal content in a game?
+- What is your motivation in carrying on playing on a online game?
+- Have you ever played a game in streaming?
+- Would you prefer bying a game to download or a physical one?
 
 Analysed the results in Excel and checked for correlations between variables like genre and platform preference, or age and game type.
 
@@ -69,8 +69,9 @@ Drafted strategic recommendations, including:
 
 - Sales potential forecast
 
-# III. Tools
+# III. Toos & skills
 
+### Tools
 Excel (including pivot tables and correlation analysis)
 
 Power BI (visual dashboard and storytelling)
@@ -83,7 +84,7 @@ Python / Pandas for the sales forecast
 
 PowerPoint (using the company template for final presentation)
 
-Skills Applied
+### Skills applied
 Market research and benchmarking
 
 Data collection, cleaning, and visualisation
