@@ -84,7 +84,7 @@ Python / Pandas for the sales forecast
 
 PowerPoint (using the company template for final presentation)
 
-### Skills applied
+### Skills
 Market research and benchmarking
 
 Data collection, cleaning, and visualisation
