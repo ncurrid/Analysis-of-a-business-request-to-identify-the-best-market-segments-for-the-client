@@ -1,101 +1,132 @@
-# Creation of my professionnal data analysis portfolio
+# Analysis of a business request to identify the best market segments for a client
 # I. Context
-As part of my training as a Data Analyst, I was presented with an opportunity to apply for a mission within an international team, working for a leading aeronautics manufacturer. This mission, set to begin in two weeks and lasting four months, will involve optimising the supply chain processes between the client and its European suppliers. It includes multiple business trips across Europe and close collaboration with logistics teams.
+After successfully completing several projects across diverse industries—including insurance, retail, pharmaceuticals, and real estate—our consulting firm, Data ESN, has finally secured a long-awaited mission in our target sector: the video game industry.
 
-The goal of this mission is to improve the efficiency of supply chain operations through data analysis and the development of interactive dashboards that will support decision-making for logistics managers.
+Following a successful assignment with Les plus beaux logis de Paris, Jade, the account manager, has reached out with a new opportunity. I’ve now joined the UOI Games team to collaborate on an exciting project: the development of their first Triple A video game.
 
-To apply for this position, I must demonstrate my skills through a custom-made dashboard and a professional portfolio. This assignment will showcase the technical and analytical competencies I have acquired during my training, as well as my ability to apply them in real-world business contexts.
+Juliette, the project lead, has tasked me with delivering a data-driven market study to help guide the direction of their new title. The stakes are high—developing a Triple A game requires significant investment and coordination across multiple departments, from developers and designers to marketers and external partners like influencers or streaming platforms.
+
+Rather than focusing on development cost modeling, the mission is to identify market trends, player preferences, and strategic opportunities that can shape the game’s concept and ecosystem. My recommendations will help define:
+
+Which consumer segment(s) to target,
+
+What game genre or platform could perform best,
+
+And whether there’s room for a unique IP or a revival of an existing model.
+
+To support this, I will perform data analyses, survey players, and provide fact-based insights through visualizations and reports.
 
 # II. Methodology
-## 1. Data Collection and Cleaning
-Downloaded the "Référentiel de Compétences" dataset, which lists all the certifiable skills from my training program.
+## 1. Data Collection
+Reviewed the three provided datasets:
 
-Cleaned the dataset by removing irrelevant entries and selecting key skills to highlight in the dashboard.
+All_publish_VideoGame_2022.xlsb: Game listings with player scores and metadata.
 
-Reviewed completed training projects to recall the tools, methods, and skills used.
+VideoGame_Sales_1980-2016.xlsx: Historical sales data across titles.
 
-## 2. Skills Assessment
-Identified the hard skills (e.g., data visualization, data manipulation, SQL) and soft skills (e.g., communication, teamwork, problem-solving) most relevant to the upcoming mission.
+Vente de console_2022.xlsx: Console sales by brand and year.
 
-Requested feedback from my mentor to assess my skill level before and after completing each major project.
+Collected additional data from public sources (Statista, Newzoo, SteamCharts, Reddit trends) to identify emerging market trends and gamer behaviors.
 
-Performed a self-evaluation using a competency scale and training tools, such as skill grids and reflection logs.
+Built a Google Form with at least five key questions to test hypotheses about consumer preferences, platform usage, and genre trends. A minimum of 10 responses was gathered.
 
-## 3. Dashboard Design
-Created a mind map in Miro to define the dashboard structure and color palette.
+## 2. Market & Consumer Analysis
+Conducted a PESTEL analysis to examine macro-environmental influences (Political, Economic, Social, Technological, Environmental, Legal).
 
-Analyzed examples on Tableau Public to explore effective design patterns and types of visualizations.
+Built a SWOT matrix (Strengths, Weaknesses, Opportunities, Threats) to position UOI Games within the competitive landscape.
 
-Designed a mock-up in Figma, mapping each skill to a specific type of visualization (bar charts, radar charts, timelines, etc.).
+Segmented consumers based on:
 
-Documented each step and rationale to ensure consistency and traceability.
+Age group (e.g., 13–17, 18–34, 35–50),
 
-## 4. Data Structuring
-Created structured tables in Excel to consolidate skill levels, project references, tools used, and training milestones.
+Gender,
 
-Defined keys (e.g., project ID, skill category) to link datasets via relationships in Tableau.
+Preferred platform (console, PC, mobile),
 
-Built a data dictionary to describe variables and ensure data consistency.
+Game genre (FPS, RPG, strategy, indie, etc.).
 
-## 5. Interactive Dashboard Creation
-Imported and connected the datasets in Tableau.
+Analyzed sales and rating data to understand the relationship between review scores, genre, platform, and commercial success.
 
-Developed multiple visualizations to illustrate skill acquisition and progression over time.
+## 3. Survey Deployment
+Designed and distributed an online questionnaire with questions such as:
 
-Used calculated fields and parameters to enhance interactivity and personalization of the dashboard.
+What genres do you play most often?
 
-Added filters and actions to allow users to explore different skill areas and project contributions.
+How many hours per week do you game?
 
-Created a main dashboard view that links to my portfolio for deeper insight into each project.
+What platform do you use most?
 
-## 6. Portfolio Development
-Built a professional portfolio in a collaborative platform (e.g., Notion, GitHub Pages).
+Do you prefer online multiplayer or solo campaigns?
 
-Created a dedicated section for each completed project, including:
+Would you try a new IP or prefer known franchises?
 
-Project context and objectives
+Analyzed the results in Excel and checked for correlations between variables like genre and platform preference, or age and game type.
 
-Tools and methods used
+## 4. Insight Generation & Recommendation
+Identified statistical trends in the sales and review data.
 
-Key deliverables
+Cross-analyzed consumer survey responses with market data.
 
-Skills applied and developed
+Selected one or more high-potential market segments.
 
-Links to code or dashboards when applicable
+Used visual dashboards (via Tableau or Power BI) to present insights.
 
-Included a section on certifications and technical training.
+Drafted strategic recommendations, including:
 
-Embedded a link to the interactive dashboard.
+A suggested game genre and setting (e.g., sci-fi survival FPS),
+
+Preferred platforms (e.g., next-gen consoles, PC),
+
+Ecosystem opportunities (e.g., Twitch campaigns, web series, NFTs, merchandising).
+
+## 5. Presentation & Documentation
+Followed the company’s official PowerPoint template.
+
+Documented sources and cited all external data.
+
+Structured the final presentation into:
+
+Executive summary,
+
+Market analysis (SWOT + PESTEL),
+
+Consumer segmentation,
+
+Survey insights,
+
+Game recommendation,
+
+Ecosystem concept,
+
+Sales potential forecast.
 
 # III. Technologies & Skills
 Technologies Used
-Microsoft Excel (including Power Pivot): for data cleaning, structuring, and relational modeling
+Excel (including pivot tables and correlation analysis)
 
-Tableau Public: for creating dynamic dashboards and visualizations
+Power BI or Tableau (for visual dashboards and storytelling)
 
-Miro: for brainstorming, mind mapping, and workflow planning
+Google Forms (for survey creation)
 
-Figma: for designing the dashboard mock-up and visual interface
+Miro or Figma (for mind mapping and ecosystem sketching)
 
-GitHub: for version control and project documentation
+Python / Pandas (optional) for deeper data wrangling
 
-HTML5: for structuring my web-based portfolio
+PowerPoint (using the company template for final presentation)
 
-Skills Demonstrated
-Data Cleaning & Preparation
+Skills Applied
+Market research and benchmarking
 
-Data Visualization
+Data collection, cleaning, and visualization
 
-Dashboard Design
+SWOT and PESTEL analysis
 
-Project Documentation
+Consumer segmentation
 
-Self-assessment & Peer Feedback
+Survey design and analysis
 
-Communication & Storytelling
+Strategic thinking and opportunity identification
 
-Use of Collaborative Tools
+Data-driven storytelling and business communication
 
-Version Control & Web Publishing
-
-Problem Solving & Analytical Thinking
+Game industry knowledge and trend forecasting
