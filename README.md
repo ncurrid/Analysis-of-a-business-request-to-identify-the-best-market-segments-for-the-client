@@ -1,123 +1,92 @@
 # Analysis of a business request to identify the best market segments for a client
 # I. Context
-After successfully completing several projects across diverse industries—including insurance, retail, pharmaceuticals, and real estate—our consulting firm, Data ESN, has finally secured a long-awaited mission in our target sector: the video game industry.
+After successfully completing several projects across diverse industries, including insurance, retail, pharmaceuticals, and real estate, our consulting firm, ESN Data, secured a mission in our target sector: the video game industry.
 
-Following a successful assignment with Les plus beaux logis de Paris, Jade, the account manager, has reached out with a new opportunity. I’ve now joined the UOI Games team to collaborate on an exciting project: the development of their first Triple A video game.
+Following a successful assignment with 'Les plus beaux logis de Paris', the account manager, reached out to me with the opportunity to join the UOI Games team to collaborate on the development of their first Triple A video game.
 
-Juliette, the project lead, has tasked me with delivering a data-driven market study to help guide the direction of their new title. The stakes are high—developing a Triple A game requires significant investment and coordination across multiple departments, from developers and designers to marketers and external partners like influencers or streaming platforms.
+The project lead tasked me with delivering a data-driven market study to help guide the direction of their new title. The stakes are high as developing a Triple A game requires significant investment and coordination across multiple departments, from developers and designers to marketers and external partners like influencers or streaming platforms.
 
-Rather than focusing on development cost modeling, the mission is to identify market trends, player preferences, and strategic opportunities that can shape the game’s concept and ecosystem. My recommendations will help define:
+Rather than focusing on development cost modeling, the mission is to identify market trends, player preferences, and strategic opportunities that can shape the game’s concept and ecosystem. My recommendations should help define:
 
-Which consumer segment(s) to target,
+- Which consumer segment(s) to target,
 
-What game genre or platform could perform best,
+- What game genre or platform could perform best
 
-And whether there’s room for a unique IP or a revival of an existing model.
-
-To support this, I will perform data analyses, survey players, and provide fact-based insights through visualizations and reports.
+To support this, I performed data analyses, survey players, and provide fact-based insights through visualisations and reports.
 
 # II. Methodology
 ## 1. Data Collection
 Reviewed the three provided datasets:
 
-All_publish_VideoGame_2022.xlsb: Game listings with player scores and metadata.
+- All_publish_VideoGame_2022.xlsb: Game listings with player scores and metadata.
 
-VideoGame_Sales_1980-2016.xlsx: Historical sales data across titles.
+- VideoGame_Sales_1980-2016.xlsx: Historical sales data across titles.
 
-Vente de console_2022.xlsx: Console sales by brand and year.
+- Vente de console_2022.xlsx: Console sales by brand and year.
 
-Collected additional data from public sources (Statista, Newzoo, SteamCharts, Reddit trends) to identify emerging market trends and gamer behaviors.
+Collected additional data from public sources to identify emerging market trends and gamer behaviors.
 
-Built a Google Form with at least five key questions to test hypotheses about consumer preferences, platform usage, and genre trends. A minimum of 10 responses was gathered.
+Built a Google Form to test hypotheses about consumer preferences, platform usage, and genre trends.
 
-## 2. Market & Consumer Analysis
+## 2. Market & consumer analysis
 Conducted a PESTEL analysis to examine macro-environmental influences (Political, Economic, Social, Technological, Environmental, Legal).
 
 Built a SWOT matrix (Strengths, Weaknesses, Opportunities, Threats) to position UOI Games within the competitive landscape.
 
-Segmented consumers based on:
+Segmented consumers based on: age group, gender, preferred platform, game genre.
 
-Age group (e.g., 13–17, 18–34, 35–50),
+Analysed sales data to understand the relationship between genre, platform, and commercial success.
 
-Gender,
-
-Preferred platform (console, PC, mobile),
-
-Game genre (FPS, RPG, strategy, indie, etc.).
-
-Analyzed sales and rating data to understand the relationship between review scores, genre, platform, and commercial success.
-
-## 3. Survey Deployment
+## 3. Survey deployment
 Designed and distributed an online questionnaire with questions such as:
 
-What genres do you play most often?
+- What genres do you play most often?
 
-How many hours per week do you game?
+- How many hours per week do you game?
 
-What platform do you use most?
+- What platform do you use most?
 
-Do you prefer online multiplayer or solo campaigns?
+- Do you prefer online multiplayer or solo campaigns?
 
-Would you try a new IP or prefer known franchises?
+Analysed the results in Excel and checked for correlations between variables like genre and platform preference, or age and game type.
 
-Analyzed the results in Excel and checked for correlations between variables like genre and platform preference, or age and game type.
-
-## 4. Insight Generation & Recommendation
+## 4. Insight generation & recommendation
 Identified statistical trends in the sales and review data.
 
-Cross-analyzed consumer survey responses with market data.
+Cross-analysed consumer survey responses with market data.
 
-Selected one or more high-potential market segments.
+Selected a high-potential market segment.
 
-Used visual dashboards (via Tableau or Power BI) to present insights.
+Used Power BI to present insights.
 
 Drafted strategic recommendations, including:
 
-A suggested game genre and setting (e.g., sci-fi survival FPS),
+- A suggested game genre and setting
 
-Preferred platforms (e.g., next-gen consoles, PC),
+- Preferred platforms
 
-Ecosystem opportunities (e.g., Twitch campaigns, web series, NFTs, merchandising).
+- Ecosystem opportunities
 
-## 5. Presentation & Documentation
-Followed the company’s official PowerPoint template.
+- Sales potential forecast
 
-Documented sources and cited all external data.
+# III. Tools
 
-Structured the final presentation into:
-
-Executive summary,
-
-Market analysis (SWOT + PESTEL),
-
-Consumer segmentation,
-
-Survey insights,
-
-Game recommendation,
-
-Ecosystem concept,
-
-Sales potential forecast.
-
-# III. Technologies & Skills
-Technologies Used
 Excel (including pivot tables and correlation analysis)
 
-Power BI or Tableau (for visual dashboards and storytelling)
+Power BI (visual dashboard and storytelling)
 
 Google Forms (for survey creation)
 
-Miro or Figma (for mind mapping and ecosystem sketching)
+Miro (for mind mapping and ecosystem sketching)
 
-Python / Pandas (optional) for deeper data wrangling
+Python / Pandas for the sales forecast
 
 PowerPoint (using the company template for final presentation)
 
 Skills Applied
 Market research and benchmarking
 
-Data collection, cleaning, and visualization
+Data collection, cleaning, and visualisation
 
 SWOT and PESTEL analysis
 
