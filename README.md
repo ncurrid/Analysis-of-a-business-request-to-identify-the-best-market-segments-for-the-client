@@ -70,7 +70,9 @@ Drafted strategic recommendations, including:
 
 ### Tools
 **Excel** (including pivot tables and correlation analysis)
+
 **Power BI** (visual dashboard and storytelling)
+
 **Google Forms** (for survey creation)
 **Miro** (for mind mapping and ecosystem sketching)
 **Python** (Pandas for the sales forecast)
