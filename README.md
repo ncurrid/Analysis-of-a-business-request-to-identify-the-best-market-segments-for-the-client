@@ -77,18 +77,18 @@ I used **Excel** (including pivot tables and correlation analysis),
 **PowerPoint** (using the company template for final presentation).
 
 ### Skills
--Market research and benchmarking
+- Market research and benchmarking
 
--Data collection, cleaning, and visualisation
+- Data collection, cleaning, and visualisation
 
--SWOT and PESTEL analysis
+- SWOT and PESTEL analysis
 
--Consumer segmentation
+- Consumer segmentation
 
--Survey design and analysis
+- Survey design and analysis
 
--Strategic thinking and opportunity identification
+- Strategic thinking and opportunity identification
 
--Data-driven storytelling and business communication
+- Data-driven storytelling and business communication
 
--Game industry knowledge and trend forecasting
+- Game industry knowledge and trend forecasting
