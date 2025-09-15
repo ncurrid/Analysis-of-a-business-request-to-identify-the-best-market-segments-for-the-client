@@ -6,13 +6,13 @@ Following a successful assignment with 'Les plus beaux logis de Paris', the acco
 
 The project lead tasked me with delivering a data-driven market study to help guide the direction of their new title. The stakes are high as developing a Triple A game requires significant investment and coordination across multiple departments, from developers and designers to marketers and external partners like influencers or streaming platforms.
 
-Rather than focusing on development cost modeling, the mission is to identify market trends, player preferences, and strategic opportunities that can shape the game’s concept and ecosystem. My recommendations should help define:
+Rather than focusing on development cost modeling, the mission was to identify market trends, player preferences, and strategic opportunities that could shape the game’s concept and ecosystem. My recommendations should help define:
 
 - Which consumer segment(s) to target
 
 - What game genre or platform could perform best
 
-To support this, I performed data analyses, survey players, and provide fact-based insights through visualisations and reports.
+To support this, I performed data analyses, survey players, and provided fact-based insights through visualisations and reports.
 
 # II. Methodology
 ## 1. Data Collection
