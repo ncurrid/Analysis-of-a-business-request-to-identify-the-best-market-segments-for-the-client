@@ -62,11 +62,8 @@ Used Power BI to present insights.
 Drafted strategic recommendations, including:
 
 - A suggested game genre and setting
-
 - Preferred platforms
-
 - Ecosystem opportunities
-
 - Sales potential forecast
 
 # III. Toos & skills
