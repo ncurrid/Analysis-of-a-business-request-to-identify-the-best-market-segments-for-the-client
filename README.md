@@ -69,17 +69,15 @@ Drafted strategic recommendations, including:
 # III. Toos & skills
 
 ### Tools
-Excel (including pivot tables and correlation analysis)
+- Excel (including pivot tables and correlation analysis)
+- Power BI (visual dashboard and storytelling)
+- Google Forms (for survey creation)
 
-Power BI (visual dashboard and storytelling)
+- Miro (for mind mapping and ecosystem sketching)
 
-Google Forms (for survey creation)
+- Python / Pandas for the sales forecast
 
-Miro (for mind mapping and ecosystem sketching)
-
-Python / Pandas for the sales forecast
-
-PowerPoint (using the company template for final presentation)
+- PowerPoint (using the company template for final presentation)
 
 ### Skills
 Market research and benchmarking
