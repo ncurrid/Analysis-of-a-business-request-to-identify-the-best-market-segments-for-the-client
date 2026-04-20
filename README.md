@@ -1,12 +1,17 @@
 # Analysis of a business request to identify the best market segments for a client
 
 ### Tools
-I used **Excel** (including pivot tables and correlation analysis),
-**Power BI** (visual dashboard and storytelling),
-**Google Forms** (for survey creation),
-**Miro** (for mind mapping and ecosystem sketching),
-**Python** (Pandas for the sales forecast),
-**PowerPoint** (using the company template for final presentation).
+**Excel** (pivot tables and correlation analysis)
+
+**Power BI** (visual dashboard and storytelling)
+
+**Google Forms** (survey creation)
+
+**Miro** (mind mapping and ecosystem sketching)
+
+**Python** (Pandas for the sales forecast)
+
+**PowerPoint** (company template for final presentation)
 
 ### Skills
 - Market research and benchmarking
